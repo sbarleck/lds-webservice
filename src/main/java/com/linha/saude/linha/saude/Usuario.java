@@ -10,7 +10,7 @@ public class Usuario {
 	@Id private String id;
 
     private String name;
-    private String email;
+    private String emailiouiouio;
     private String password;
     
 	public String getName() { return name; }
