@@ -6,11 +6,11 @@ import java.util.Date;
 import java.util.ArrayList;
 
 public class Usuario {
-
-	@Id private String id;
+    
+    @Id private String id;
 
     private String name;
-    private String email;
+    private String email4732874328974389742398;
     private String password;
     
 	public String getName() { return name; }
